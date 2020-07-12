@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+Debug/
+Release/
+Conway-Game-Of-Life/Debug/
+Conway-Game-Of-Life/Release/
